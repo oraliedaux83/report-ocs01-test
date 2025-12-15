@@ -1,6 +1,6 @@
 Dear Octra Development Team,
 
-I would like to submit the following report regarding contract deployments and benchmarking results performed during testing. Full details are provided below.
+I would like to submit the following report benchmarking results performed during testing. Full details are provided below.
 
 My wallet: octBK9RQhuAE3acQF4JASEZjm8p53FsJhnG9N3RAnpWuMLU
 
